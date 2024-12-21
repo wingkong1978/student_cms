@@ -43,7 +43,7 @@ coverage: ## check code coverage quickly with the default Python
 	open htmlcov/index.html
 
 docs: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/djangocms-spa-vue-js.rst
+	rm -f docs/student_cms.rst
 	rm -f docs/modules.rst
 	sphinx-apidoc -o docs/ djangocms_spa_vue_js
 	$(MAKE) -C docs clean

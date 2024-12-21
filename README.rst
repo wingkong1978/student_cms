@@ -1,5 +1,5 @@
 ====================
-djangocms-spa-vue-js
+student_cms
 ====================
 
 This package prepares your django CMS and vue.js project to create a single-page application (SPA). Use it together
@@ -16,9 +16,9 @@ Make sure you read the docs of djangocms-spa.
 Quickstart
 ----------
 
-Install djangocms-spa-vue-js::
+Install student_cms::
 
-    pip install djangocms-spa-vue-js
+    pip install student_cms
 
 Add it to your ``INSTALLED_APPS``:
 

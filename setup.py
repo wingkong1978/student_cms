@@ -45,13 +45,13 @@ readme = open('README.rst').read()
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
-    name='djangocms-spa-vue-js',
+    name='student_cms',
     version=version,
     description="""This package prepares your django CMS and vue.js project to create a single-page application (SPA).""",
     long_description=readme + '\n\n' + history,
     author='dreipol GmbH',
     author_email='dev@dreipol.ch',
-    url='https://github.com/dreipol/djangocms-spa-vue-js',
+    url='https://github.com/dreipol/student_cms',
     packages=[
         'student_cms',
     ],
@@ -61,7 +61,7 @@ setup(
     ],
     license="MIT",
     zip_safe=False,
-    keywords='djangocms-spa-vue-js',
+    keywords='student_cms',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Framework :: Django',

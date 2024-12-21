@@ -3,7 +3,7 @@ Contributing
 ============
 
 Contributions are welcome, and they are greatly appreciated! Every
-little bit helps, and credit will always be given. 
+little bit helps, and credit will always be given.
 
 You can contribute in many ways:
 
@@ -13,7 +13,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/dreipol/djangocms-spa-vue-js/issues.
+Report bugs at https://github.com/dreipol/student_cms/issues.
 
 If you are reporting a bug, please include:
 
@@ -36,14 +36,14 @@ is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-djangocms-spa-vue-js could always use more documentation, whether as part of the 
-official djangocms-spa-vue-js docs, in docstrings, or even on the web in blog posts,
+student_cms could always use more documentation, whether as part of the
+official student_cms docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/dreipol/djangocms-spa-vue-js/issues.
+The best way to send feedback is to file an issue at https://github.com/dreipol/student_cms/issues.
 
 If you are proposing a feature:
 
@@ -55,17 +55,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `djangocms-spa-vue-js` for local development.
+Ready to contribute? Here's how to set up `student_cms` for local development.
 
-1. Fork the `djangocms-spa-vue-js` repo on GitHub.
+1. Fork the `student_cms` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/djangocms-spa-vue-js.git
+    $ git clone git@github.com:your_name_here/student_cms.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv djangocms-spa-vue-js
-    $ cd djangocms-spa-vue-js/
+    $ mkvirtualenv student_cms
+    $ cd student_cms/
     $ python setup.py develop
 
 4. Create a branch for local development::
@@ -81,7 +81,7 @@ Ready to contribute? Here's how to set up `djangocms-spa-vue-js` for local devel
         $ python setup.py test
         $ tox
 
-   To get flake8 and tox, just pip install them into your virtualenv. 
+   To get flake8 and tox, just pip install them into your virtualenv.
 
 6. Commit your changes and push your branch to GitHub::
 
@@ -100,8 +100,8 @@ Before you submit a pull request, check that it meets these guidelines:
 2. If the pull request adds functionality, the docs should be updated. Put
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
-3. The pull request should work for Python 2.6, 2.7, and 3.3, and for PyPy. Check 
-   https://travis-ci.org/dreipol/djangocms-spa-vue-js/pull_requests
+3. The pull request should work for Python 2.6, 2.7, and 3.3, and for PyPy. Check
+   https://travis-ci.org/dreipol/student_cms/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips
